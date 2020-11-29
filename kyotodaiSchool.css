@@ -108,6 +108,14 @@ header {
   rotate(45deg);
 }
 
+#gaiyo{
+  border-left :solid 5px blue;
+  border-bottom: solid 1px gray;
+  /*余白*/
+  padding: 10px;  
+}  
+
+
 @media screen and (max-width: 480px) {
   #nav ul li {
     font-size: 14px;
