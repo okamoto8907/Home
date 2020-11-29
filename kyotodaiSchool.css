@@ -108,11 +108,15 @@ header {
   rotate(45deg);
 }
 
-#gaiyo{
+#gaiyo_start{
   border-left :solid 5px blue;
   border-bottom: solid 1px gray;
   /*余白*/
   padding: 10px;  
+}  
+
+#gaiyo_end{
+  border-bottom: solid 1px gray;
 }  
 
 
