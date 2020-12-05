@@ -1,3 +1,7 @@
+
+#logo.resizeimage img { width: 25%; }
+#kyotodaiSchool.resizeimage img { width: 100%; }
+
 #first{
   border-left :solid 5px blue;
   border-bottom: solid 1px gray;
