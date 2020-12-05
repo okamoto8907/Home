@@ -1,0 +1,22 @@
+#first{
+  border-left :solid 5px blue;
+  border-bottom: solid 1px gray;
+  /*余白*/
+  padding: 10px;  
+}  
+
+#first_end{
+  border-bottom: solid 1px gray;
+}  
+
+
+#second{
+  border-left :solid 5px blue;
+  border-bottom: solid 1px gray;
+  /*余白*/
+  padding: 10px;  
+}  
+
+#second_end{
+  border-bottom: solid 1px gray;
+}  
