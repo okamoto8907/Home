@@ -25,6 +25,16 @@
   border-bottom: solid 1px gray;
 }  
 
+#third{
+  border-left :solid 5px blue;
+  border-bottom: solid 1px gray;
+  /*余白*/
+  padding: 10px;  
+}  
+
+#third_end{
+  border-bottom: solid 1px gray;
+}  
 
 
 
